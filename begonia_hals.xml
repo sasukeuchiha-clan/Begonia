@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="pixel-devices-blobs" fetch="https://gitlab.pixelexperience.org/android/vendor-blobs" />
-    <remote name="PixelExperience" fetch="https://github.com/PixelExperience/" />
+    <remote name="PotatoDevices" fetch="https://github.com/PotatoDevices" />
+    <remote name="Descendant-Devices" fetch="https://github.com/Descendant-Devices" />
     
-    <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="PixelExperience" revision="eleven" />
-    <project path="vendor/mediatek/opensource" name="vendor_mediatek-opensource" remote="PixelExperience" revision="eleven" />
-    <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="PixelExperience" revision="eleven" />
-    <project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="PixelExperience" revision="eleven" />
-    <project path="vendor/xiaomi-firmware" name="vendor_xiaomi-firmware" remote="pixel-devices-blobs" revision="eleven" />
+    <project path="vendor/mediatek/opensource" name="vendor_mediatek-opensource" remote="PotatoDevices" revision="dumaloo-release" />
+    <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="Descendant-Devices" revision="eleven" />
+    <project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="PotatoDevices" revision="dumaloo-release" />
+    <project path="vendor/redmi/begonia-firmware" name="vendor_redmi_begonia-firmware" remote="PotatoDevices" revision="dumaloo-release" />
     
 </manifest>
