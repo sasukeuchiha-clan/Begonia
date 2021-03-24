@@ -4,7 +4,7 @@
     <remote name="Descendant-Devices" fetch="https://github.com/Descendant-Devices" />
     <remote name="PixelExperience" fetch="https://github.com/PixelExperience" />
 
-    <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy"
+    <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy" remote="PixelExperience" revision="eleven" />
     <project path="vendor/mediatek/opensource" name="vendor_mediatek_opensource" remote="PotatoDevices" revision="dumaloo-release" />
     <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="Descendant-Devices" revision="eleven" />
     <project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="PotatoDevices" revision="dumaloo-release" />
