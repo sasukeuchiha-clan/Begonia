@@ -8,7 +8,7 @@
 	<remote  name="ZyCromerZ"
 		fetch="https://github.com/ZyCromerZ" />
  
- 	<project path="device/redmi/begonia" name="device_redmi_begonia" remote="sasukeuchiha-clan" revision="NezukoOS" />
+ 	<project path="device/redmi/begonia" name="device_redmi_begonia" remote="sasukeuchiha-clan" revision="CherishOS" />
 	<project path="kernel/xiaomi/mt6785" name="begonia" remote="ZyCromerZ" revision="20201110/neutrino-2" />
 	<project path="vendor/redmi/begonia" name="vendor_redmi_begonia" remote="PotatoDevices" revision="dumaloo-release" />
 
