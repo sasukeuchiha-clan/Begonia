@@ -8,7 +8,7 @@
 	<remote  name="ZyCromerZ"
 		fetch="https://github.com/ZyCromerZ" />
  
- 	<project path="device/xiaomi/begonia" name="device_xiaomi_begonia" remote="sasukeuchiha-clan" revision="new" />
+ 	<project path="device/xiaomi/begonia" name="device_xiaomi_begonia" remote="sasukeuchiha-clan" revision="cherish" />
 	<project path="kernel/xiaomi/begonia" name="begonia" remote="ZyCromerZ" revision="20210205/qk-n" />
 	<project path="vendor/xiaomi/begonia" name="vendor_xiaomi_begonia" remote="azuritenoah" revision="eleven" />
 
