@@ -5,11 +5,11 @@
 		fetch="https://github.com/sasukeuchiha-clan" />
 	<remote  name="PotatoDevices"
          	fetch="https://github.com/PotatoDevices" />
-	<remote  name="Peppe289"
-		fetch="https://github.com/Peppe289" />
+	<remote  name="Agent"
+		fetch="https://github.com/AgentFabulous" />
  
- 	<project path="device/redmi/begonia" name="device_redmi_begonia" remote="sasukeuchiha-clan" revision="Cherish" />
-	<project path="kernel/xiaomi/mt6785" name="kernel_begonia" remote="Peppe289" revision="next" />
+ 	<project path="device/redmi/begonia" name="redmi_begonia" remote="sasukeuchiha-clan" revision="soni" />
+	<project path="kernel/xiaomi/mt6785" name="begonia" remote="Agent" revision="android-11.0" />
 	<project path="vendor/redmi/begonia" name="vendor_redmi_begonia" remote="PotatoDevices" revision="dumaloo-release" />
 
 </manifest>
