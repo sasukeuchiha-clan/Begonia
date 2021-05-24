@@ -8,7 +8,7 @@
 	<remote  name="AgentFabulous"
 		fetch="https://github.com/AgentFabulous" />
  
- 	<project path="device/redmi/begonia" name="device_redmi_begonia" remote="sasukeuchiha-clan" revision="backup" />
+ 	<project path="device/redmi/begonia" name="device_redmi_begonia" remote="sasukeuchiha-clan" revision="DerpFest-11" />
 	<project path="kernel/xiaomi/mt6785" name="begonia" remote="AgentFabulous" revision="android-11.0" />
 	<project path="vendor/redmi/begonia" name="vendor_redmi_begonia" remote="PotatoDevices" revision="dumaloo-release" />
 
