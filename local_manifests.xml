@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-	<remote  name="sasukeuchiha-clan"
-		fetch="https://github.com/sasukeuchiha-clan" />
+	<remote  name="HyperNotAryanx97"
+		fetch="https://github.com/HyperNotAryanX97" />
 	<remote  name="PotatoDevices"
          	fetch="https://github.com/PotatoDevices" />
 	<remote  name="AgentFabulous"
 		fetch="https://github.com/AgentFabulous" />
  
- 	<project path="device/redmi/begonia" name="device_redmi_begonia" remote="sasukeuchiha-clan" revision="backup" />
+ 	<project path="device/redmi/begonia" name="android_device_redmi_begonia" remote="HyperNotAryanx97" revision="main" />
 	<project path="kernel/xiaomi/mt6785" name="begonia" remote="AgentFabulous" revision="android-11.0" />
-	<project path="vendor/redmi/begonia" name="vendor_redmi_begonia" remote="PotatoDevices" revision="dumaloo-release" />
+	<project path="vendor/redmi/begonia" name="android_vendor_redmi_begonia" remote="HyperNotAryanx97" revision="main" />
 
 </manifest>
