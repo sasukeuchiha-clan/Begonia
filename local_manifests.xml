@@ -9,7 +9,7 @@
 		fetch="https://github.com/AgentFabulous" />
  
  	<project path="device/redmi/begonia" name="android_device_redmi_begonia" remote="HyperNotAryanX97" revision="main" />
-	<project path="kernel/xiaomi/mt6785" name="begonia" remote="AgentFabulous" revision="android-11.0" />
+	<project path="kernel/redmi/begonia" name="begonia" remote="AgentFabulous" revision="android-11.0" />
 	<project path="vendor/redmi/begonia" name="vendor_redmi_begonia" remote="PotatoDevices" revision="dumaloo-release" />
 
 </manifest>
