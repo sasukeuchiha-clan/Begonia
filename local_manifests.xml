@@ -13,5 +13,5 @@
 	<project path="vendor/redmi/begonia" name="vendor_redmi_begonia" remote="PotatoDevices" revision="dumaloo-release" />
           <!-- Blur Fix -->
         <remove-project name="android_frameworks_native" />
-        <project path="frameworks/native" name="android_frameworks_native" remote="HyperNotAryanX97" />
+        <project path="frameworks/native" name="android_frameworks_native" remote="HyperNotAryanX97" revision="eleven" />
 </manifest>
